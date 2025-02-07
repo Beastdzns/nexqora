@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #161616;
+}
+
+@font-face {
+  font-family: "Trap";
+  src: url("../fonts/Trap-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("../fonts/Roobert-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("../fonts/Roobert-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Roobert";
+  src: url("../fonts/Roobert-SemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
