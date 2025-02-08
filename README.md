@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project integrates mutual fund [different token buying at same tme reducing the gas fees and making the gas fees as low as possible] Chainlink’s CCIP, 1inch Fusion, Eliza OS, and Goat SDK to provide cross-chain interoperability, utilizing Ethereum's EVM and Solidity for smart contract functionality. Additionally, AI-driven decision-making and blockchain communication are enabled through Eliza OS and Goat SDK.
+This project integrates mutual fund [different token buying at same time reducing the gas fees and making the gas fees as low as possible] Chainlink’s CCIP, 1inch Fusion, Eliza OS, and Goat SDK to provide cross-chain interoperability, utilizing Ethereum's EVM and Solidity for smart contract functionality. Additionally, AI-driven decision-making and blockchain communication are enabled through Eliza OS and Goat SDK.
 
 This project integrates Eliza OS and Goat SDK to enable AI-driven interactions with blockchain applications. Eliza OS is an AI agent framework that allows autonomous agents to perform tasks across various platforms, while Goat SDK acts as a plugin, connecting these AI agents to on-chain applications. By combining these technologies, our project enhances the capabilities of decentralized applications, enabling smarter and more efficient cross-chain operations.
 
