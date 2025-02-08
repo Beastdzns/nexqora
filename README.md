@@ -28,8 +28,8 @@ Before starting, ensure you have the following installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/stoners/tokentechies.git
-cd tokentechies
+git clone https://github.com/yourusername/nexqora.git
+cd nexqora
 ```
 
 ### 2. Install dependencies
