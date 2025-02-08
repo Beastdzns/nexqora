@@ -1,6 +1,4 @@
-Here’s a structured README file for your project with clear setup instructions:
 
----
 
 # Project Name
 
