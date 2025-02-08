@@ -1,6 +1,6 @@
 Screenshots of App
 
-![WhatsApp Image 2025-02-08 at 09 30 28](https://github.com/user-attachments/assets/8e133c9d-3858-4c48-ab0f-4a59a45cbd03)
+![WhatsApp Image 2025-02-08 at 09 34 31](https://github.com/user-attachments/assets/484c91c7-8d58-4112-8ebf-7a86726d8b97)
 
 ![WhatsApp Image 2025-02-08 at 09 30 09](https://github.com/user-attachments/assets/54333937-ef30-4877-9aad-a6473563312b)
 
